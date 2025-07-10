@@ -1,4 +1,4 @@
 print("Hello, secure world!")
 
-#Bu nebuchadnezzar hesabından yapılan push
+#Bu nebuchadnezzar hesabından yapılan pushsd
 
